@@ -26,5 +26,9 @@
 
 // 2.1.2
 void main(){
-  
+    var data = "Welcome";
+    print(data);
+    print(data.runtimeType);
+    // data = 12; // could not assign
+
 }
